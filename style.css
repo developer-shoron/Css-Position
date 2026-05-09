@@ -10,12 +10,21 @@
     padding: 20px;
     width: 100%;
     background-color: #10061f;
-    margin-bottom: 200px;
+    position: sticky;
+    top: 0px;
+    margin-bottom: 10px;
 }
 
-
+.bgd{
+    width: 70%;
+    background-color: aqua;
+    height: 800px;
+    color: #10061f;
+    margin: 0 auto;  
+}
 
 #width{
+    
     width: 70%;
     display: flex;
     
